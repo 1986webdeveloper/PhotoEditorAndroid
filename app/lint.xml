@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconDipSize">
+        <ignore path="src/main/res/mipmap-xxhdpi/ic_remove.png" />
+        <ignore path="src/main/res/mipmap-xxxhdpi/ic_remove.png" />
+    </issue>
+    <issue id="IconDuplicatesConfig">
+        <ignore path="src/main/res/mipmap-xxhdpi/ic_remove.png" />
+        <ignore path="src/main/res/mipmap-xxxhdpi/ic_remove.png" />
+    </issue>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/aa.png" />
+        <ignore path="src/main/res/drawable/bb.png" />
+        <ignore path="src/main/res/drawable/flower.jpg" />
+        <ignore path="src/main/res/drawable/got.jpg" />
+        <ignore path="src/main/res/drawable/got_s.jpg" />
+        <ignore path="src/main/res/drawable/ic_gallery.png" />
+        <ignore path="src/main/res/drawable/original.jpg" />
+    </issue>
+</lint>
